@@ -8,25 +8,36 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-## Development
 
-To get local copy of code, clone using git
+# React Props Practice
 
+Exercise from Scrimba React
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/RayHyper/React-Jokes.git
 ```
-git clone https://github.com/RayHyper/React-Jokes.git
-cd React jokes
+
+Go to the project directory
+
+```bash
+  cd React jokes
 ```
 
-Install Dependencies
+Install dependencies
 
-```
-npm install
+```bash
+  npm install
 ```
 
-To Start Local Web Server Run:
+Start the server
 
-```
-npm run dev
+```bash
+  npm run dev
 ```
 
 view on local browser  http://localhost:5173
