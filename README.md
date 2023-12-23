@@ -41,3 +41,16 @@ Start the server
 ```
 
 view on local browser  http://localhost:5173
+
+## Build App
+
+Builds app for production to the dist folder
+
+```
+npm run build
+```
+
+To preview production build before deploying it
+```
+npm run preview
+```
